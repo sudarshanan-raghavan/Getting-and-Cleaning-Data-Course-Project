@@ -1,4 +1,4 @@
-# This is the .R script for the Course Project of the "Getting and Cleaning Data"
+# This is the R script for the Course Project of the "Getting and Cleaning Data"
 # course on Coursera
 
 # Note - the 'rm' function is used to remove data that is not required anymore

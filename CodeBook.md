@@ -1,4 +1,4 @@
-This is the code book for the Course Project for the "Getting and Cleaning Data" course of Johns Hopkins University (hosted on Coursera)
+This is the code book for the Course Project for the "Getting and Cleaning Data" course of Johns Hopkins University (hosted on Coursera).
 
 
 A brief description of the original data is given below.
