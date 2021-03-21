@@ -17,3 +17,6 @@ This file contains the new tidy data set that is generated from the original dat
 
 "CodeBook.md"
 This file contains detailed descriptions of the original data, the transformations performed on those data by the "run_analysis.R" script and the new tidy data obtained.
+
+"Getting-and Cleaning-Data-Course-Project.Rproj"
+This is the name of the R projecct file which was used on my local machine to do the scripting.
