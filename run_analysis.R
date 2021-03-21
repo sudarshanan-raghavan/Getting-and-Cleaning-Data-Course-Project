@@ -93,7 +93,7 @@ data_set <- summarize_all(data_set, mean)
 
 
 # Let's store the new data set in a new file
-write.table(data_set, "new_data_set.txt")
+write.table(data_set, "new_data_set.txt", row.names = FALSE)
 rm(data_set)
 
 
